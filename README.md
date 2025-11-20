@@ -1,2 +1,3 @@
-# chocolate-_sales_-Analysis
-End-to-end sales analytics using SQL for data cleaning, transformation, and trend analysis. Built an interactive Power BI dashboard showing Total Sales, Sales Growth %, Regional Contribution, and Product Performance. Found a 21.86% sales drop, a 78.20% recovery, and New Zealand contributing 17.07%
+# Awesome-chocholate-sales-dashboard(SQL and Power BI)
+##  Project Objective
+To analyze sales performance using SQL and Power BI by transforming raw data into actionable insights. To identify key trends, growth patterns, and regional contributions that support data-driven decision-making.
