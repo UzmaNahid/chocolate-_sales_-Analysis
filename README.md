@@ -13,4 +13,6 @@ To analyze sales performance using SQL and Power BI by transforming raw data int
 8. How did sales trend over time?
 
  Dashboard interaction <a href="https://github.com/UzmaNahid/chocolate-_sales_-Analysis/blob/main/Awesome%20Chocolate%20Dashboard.pbix"> view dashboard</a>
- 
+
+ ## Dashboard
+<img width="882" height="476" alt="Awesome chocolate dashboard image" src="https://github.com/user-attachments/assets/528192a5-99e1-4621-8ea5-e65901564e6d" />
