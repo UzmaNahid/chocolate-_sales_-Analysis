@@ -16,3 +16,6 @@ To analyse sales performance using SQL and Power BI by transforming raw data int
 
  ## Dashboard
 <img width="882" height="476" alt="Awesome chocolate dashboard image" src="https://github.com/user-attachments/assets/528192a5-99e1-4621-8ea5-e65901564e6d" />
+
+## Conclusion 
+The analysis provides a comprehensive view of the business’s sales performance across products, regions, and time. Despite an initial 21.86% decline, sales demonstrated a strong 78.20% recovery, indicating resilient demand and effective operational adjustments. New Zealand emerged as the top-performing region, contributing 17.07% of total global sales, while key product categories and salespersons drove significant revenue growth. Overall, the insights highlight clear opportunities to strengthen regional strategies, optimize product mix, and support decision-making through data-driven planning.
