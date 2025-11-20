@@ -11,3 +11,6 @@ To analyze sales performance using SQL and Power BI by transforming raw data int
 6. Which product categories generated the highest sales?
 7. Which salesperson contributed the most to revenue?
 8. How did sales trend over time?
+
+ Dashboard interaction <a href="https://github.com/UzmaNahid/chocolate-_sales_-Analysis/blob/main/Awesome%20Chocolate%20Dashboard.pbix"> view dashboard</a>
+ 
