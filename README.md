@@ -1,6 +1,6 @@
 # Awesome-chocholate-sales-dashboard(SQL and Power BI)
 ##  Project Objective
-To analyze sales performance using SQL and Power BI by transforming raw data into actionable insights. To identify key trends, growth patterns, and regional contributions that support data-driven decision-making.
+To analyse sales performance using SQL and Power BI by transforming raw data into actionable insights. To identify key trends, growth patterns, and regional contributions that support data-driven decision-making.
 
 ## Questions(KPI)
 1. What is the total revenue generated during the analysis period?
